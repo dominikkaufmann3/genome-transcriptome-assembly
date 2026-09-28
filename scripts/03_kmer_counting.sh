@@ -4,7 +4,7 @@
 #SBATCH --mem=40G
 #SBATCH --time=02:00:00
 #SBATCH --job-name=jellyfish
-#SBATCH --mail-user=dominik.kaufmann3@unibe.ch
+#SBATCH --mail-user=dominik.kaufmann3@students.unibe.ch
 #SBATCH --mail-type=end
 #SBATCH --output=/data/users/dkaufmann3/output_jellyfish_%j.o
 #SBATCH --error=/data/users/dkaufmann3/error_jellyfish_%j.e

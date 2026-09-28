@@ -4,7 +4,7 @@
 #SBATCH --mem=16G
 #SBATCH --time=01:00:00
 #SBATCH --job-name=fastp
-#SBATCH --mail-user=dominik.kaufmann3@unibe.ch
+#SBATCH --mail-user=dominik.kaufmann3@students.unibe.ch
 #SBATCH --mail-type=end
 #SBATCH --output=/data/users/dkaufmann3/output_fastp_%j.o
 #SBATCH --error=/data/users/dkaufmann3/error_fastp_%j.e
