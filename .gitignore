@@ -1,29 +1,25 @@
-# Raw sequencing data
+assemblies/
+busco_downloads/
+assembly_evaluation/
+genome_comparison/
+
 *.fastq
 *.fastq.gz
 *.fq
 *.fq.gz
-
-# Jellyfish database (large intermediate)
 *.jf
 
-# Large assembly intermediate files
-*.gfa
-*.bin
+Dog-4
+RNAseq_Sha
 
-# SLURM output/error files
 slurm-*.out
 *.o
 *.e
 
-# Temporary files
 *.tmp
 *.temp
 *~
 .DS_Store
 
-# Python cache (if used later)
 __pycache__/
 *.pyc
-Dog-4
-RNAseq_Sha

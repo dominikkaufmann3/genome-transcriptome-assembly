@@ -1,0 +1,1 @@
+2026-10-01 19:01:07 DEBUG:busco.run_BUSCO	Command line: /usr/local/bin/busco --input /data/users/dkaufmann3/assembly_annotation_course/assemblies/flye/assembly.fasta --output flye_busco --out_path /data/users/dkaufmann3/assembly_annotation_course/assembly_evaluation/busco --mode genome --lineage_dataset brassicales_odb10 --cpu 8
